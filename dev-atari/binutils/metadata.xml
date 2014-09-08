@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<longdescription lang="en">
+	A version of binutils patched to support m68k-atari-mint as a target,
+	meant for building a cross-compiler toolchain for the Atari ST.
+	</longdescription>
+	<maintainer>
+		<email>mail+atari@slowpoke.io</email>
+		<name>slowpoke</name>
+	</maintainer>
+</pkgmetadata>
